@@ -1,4 +1,4 @@
-The here available summary table was used in Figure 1 in <b>Rodríguez-Gijón and Nuy et al., 2022 (<i>Frontiers in Microbiology</i>)</b>. We include below the information on how this table was retrieved:
+The here available summary table was used in Figure 1 in <b>Rodríguez-Gijón and Nuy et al., 2022 (<i>Frontiers in Microbiology</i>)</b>. We include below  information on how this table was created:
 
 ```
 In this review, we have included  64,500 environmental MAGs available via two recently published 
@@ -15,6 +15,8 @@ These genomes are marked in the GTDB databases (release 95) to originate from cu
 After clustering at 95% ANI threshold, 540 mOTUs contained representatives from both environmental 
 MAGs and isolate genomes (Figure 1C).
 ```
+Please note that the  table has 4 genomes of origin in "Air" environment which we did not include in our meta analysis.
+
 
 # References
 
