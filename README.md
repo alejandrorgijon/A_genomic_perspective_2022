@@ -12,8 +12,6 @@ one representative MAG each (completeness > 50% and contamination < 5%, assessed
 v1.1.3) (Parks et al., 2015). We complemented these environmental MAGs by adding 8 267 
 representative genomes (>90% complete) of isolates from GTDB (Parks et al., 2020; Figure 1A). 
 These genomes are marked in the GTDB databases (release 95) to originate from culture collections. 
-After clustering at 95% ANI threshold, 540 mOTUs contained representatives from both environmental 
-MAGs and isolate genomes (Figure 1C).
 ```
 Please note that the  table has 4 genomes of origin in "Air" environment which we did not include in our meta analysis.
 
