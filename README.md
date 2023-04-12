@@ -8,12 +8,12 @@ stratified lakes and ponds assembled with Megahit (v1.1.13) and binned with Meta
 collected from diverse habitats on Earth (Nayfach et al., 2020). GEMs dataset was assembled 
 using metaSPAdes and binned with Metabat (v0.32.5). After dereplication using fastANI and 
 mOTUlizer (Jain et al., 2018; Buck et al., 2021b), our meta-analysis includes 17 834 mOTUs, with 
-one representative MAG each (completeness > 50% and contamination < 5%, assessed with CheckM v1.1.3)
-(Parks et al., 2015). We complemented these environmental MAGs by adding 8 267 representative genomes
-(>90% complete) of isolates from GTDB (Parks et al., 2020; Figure 1A). These genomes are marked in 
-the GTDB databases (release 95) to originate from culture collections. After clustering at 95% ANI 
-threshold, 540 mOTUs contained representatives from both environmental MAGs and isolate genomes 
-(Figure 1C).
+one representative MAG each (completeness > 50% and contamination < 5%, assessed with CheckM 
+v1.1.3) (Parks et al., 2015). We complemented these environmental MAGs by adding 8 267 
+representative genomes (>90% complete) of isolates from GTDB (Parks et al., 2020; Figure 1A). 
+These genomes are marked in the GTDB databases (release 95) to originate from culture collections. 
+After clustering at 95% ANI threshold, 540 mOTUs contained representatives from both environmental 
+MAGs and isolate genomes (Figure 1C).
 ```
 
 # References
