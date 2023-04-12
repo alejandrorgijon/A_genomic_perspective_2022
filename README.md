@@ -1,4 +1,4 @@
-Summary table with all genomes used in <b>Rodríguez-Gijón and Nuy et al., 2022</b>. This table includes information of bin id, completeness, contamination, GC %, coding density (%), assembly length, estimated genome size, mOTU, GTDB classification and ecosystem (with subcategories).
+The here available summary table was used in Figure 1 in <b>Rodríguez-Gijón and Nuy et al., 2022 (<i>Frontiers in Microbiology</i>)</b>.
 
 # References
 
